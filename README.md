@@ -32,3 +32,5 @@ Build Target: Multiboot-compliant kernel bootable via GRUB
 
 Status: Early development / Learning phase
 Repository Purpose: Documentation of development process, tracking incremental goals, version control of code, and sharing of educational resources
+
+Final version for build 0 (Zero) will be an ISO.
